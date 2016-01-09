@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Base de donnée</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="action_about">\u00c0 propos</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="enregistrer">Enregistrer</string>
+    <string name="annuler">Annuler</string>
+    <string name="fetch">Rafraichir</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="title_activity_add_participants">Ajouter un participant</string>
+    <string name="erreur">Veuillez remplir tous les champs</string>
+    <string name="developed_by">Application développée par</string>
+    <string name="my_name">Seth-Pharès Gnavo</string>
+    <string name="please">Veuillez ajouter des particiants</string>
+    <string name="title_activity_about">\u00c0 propos</string>
+
+    <string name="copyright">© 2012-2015 Alissa Solutions Inc.</string>
+    <string name="copyright2">Tous droits réservés</string>
+
+    <string name="moto">God can give you more...</string>
+    <string name="dialog_modify">Modifier</string>
+    <string name="dialog_delete">Supprimer</string>
+    <string name="title_activity_result">ResultActivity</string>
+
+</resources>

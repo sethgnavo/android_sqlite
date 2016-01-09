@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dialog_about"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dialog_modify"
+        android:title="@string/dialog_modify"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dialog_delete"
+        android:title="@string/dialog_delete"
+        app:showAsAction="never" />
+</menu>
